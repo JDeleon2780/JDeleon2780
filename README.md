@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋  <img src="https://media.giphy.com/media/y3adWCua99YTqR3ZGj/giphy.gif" width="90" height="90" style="vertical-align: middle;">
+# Welcome to My GitHub! 👋  <img src="https://media.giphy.com/media/y3adWCua99YTqR3ZGj/giphy.gif" width="100" height="100" style="vertical-align: middle;">
 
 
 __Hi there!__  
