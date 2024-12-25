@@ -1,7 +1,6 @@
-# Welcome to My GitHub! 👋  
+# Welcome to My GitHub! 👋  <img src="https://media.giphy.com/media/y3adWCua99YTqR3ZGj/giphy.gif" width="50" height="50" style="vertical-align: middle; margin: 0;">
 
-
-__Hi there!__  <img src="https://media.giphy.com/media/y3adWCua99YTqR3ZGj/giphy.gif" width="100" height="100" style="vertical-align: middle; margin-left: 10px">
+__Hi there!__  
 I'm Jeremy, a tech enthusiast passionate about **web development** and **robotics**. This is the space where I share my projects, ideas, and collaborations, all driven by curiosity and a love for innovation.   
 
 
