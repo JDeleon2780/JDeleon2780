@@ -22,13 +22,3 @@ I'm Jeremy, a tech enthusiast passionate about **web development** and **robotic
 
 
 [![jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDeleon2780&show_icons=true&theme=tokyonight)](https://github.com/JDeleon2780/github-readme-stats)
-name: Favorites anime and currently watching
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, watching
-  plugin_anilist_limit: 1
